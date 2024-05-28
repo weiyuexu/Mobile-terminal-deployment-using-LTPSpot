@@ -4,5 +4,5 @@ Images of 792 (20%) were selected from dataset-3960 as the validation data in ou
 # Evaluation metrics
 The code of evaluation matrics in our paper was illustrated here, including mAP, Precision, Recall, and speed (FPS).
 
-# Video of pest detection platform based on YOLO-Tpest model
+# Video of pest detection platform based on LTPSpot model
 A mobile terminal of 4 tiny pests image/video detection was built. You can find the DEMO video here.
